@@ -21,7 +21,7 @@ The images are in JPG format and vary in resolution.
 - Training, testing, and validation sets combined into a single set.
 - Re-split into training and testing subsets with 20% for testing.
 - New dataset has 37,240 images (originally 37,461):
-- - Training: 29,791 images (14,913 dogs, 14,878 cats)
+  - Training: 29,791 images (14,913 dogs, 14,878 cats)
   - Testing: 7,449 images (3,729 dogs, 3,720 cats)
 
 ## Model Architecture
