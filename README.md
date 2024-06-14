@@ -7,12 +7,13 @@ This project demonstrates a machine learning model that classifies images of cat
 This project aims to classify images of cats and dogs using CNNs. We trained multiple models and compared their performance to determine the most accurate one.
 
 ## Dataset
-The dataset consists of 37,461 images of cats and dogs divided into three subsets:
+The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/moazeldsokyx/dogs-vs-cats) and consists of 37,461 images of cats and dogs divided into three subsets:
 - Training: 20,000 images (10,000 cats and 10,000 dogs)
 - Testing: 12,461 images (6,219 cats and 6,242 dogs)
 - Validation: 5,000 images (2,500 cats and 2,500 dogs)
 
 The images are in JPG format and vary in resolution.
+
 
 ## Preprocessing
 - Inconsistent images were manually removed.
