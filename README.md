@@ -58,7 +58,6 @@ The results indicate that Model A2 (ResNet-50 with 88 frozen layers) performed t
 - Python
 - Keras/TensorFlow
 - ktrain
-- Jupyter Notebook
 
 ## Usage
 To use the code in this repository:
