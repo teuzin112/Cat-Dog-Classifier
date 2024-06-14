@@ -3,18 +3,6 @@
 
 This project demonstrates a machine learning model that classifies images of cats and dogs using Convolutional Neural Networks (CNN). The model was built and trained using Python and various machine learning libraries.
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Dataset](#dataset)
-- [Preprocessing](#preprocessing)
-- [Model Architecture](#model-architecture)
-- [Training](#training)
-- [Results](#results)
-- [Technologies Used](#technologies-used)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Introduction
 This project aims to classify images of cats and dogs using CNNs. We trained multiple models and compared their performance to determine the most accurate one.
 
